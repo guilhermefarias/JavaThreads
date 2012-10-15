@@ -1,5 +1,5 @@
 package entity;
-
+//É apenas uma classe que será usada no exemplo
 public class Conta {
 	int saldo;
 
